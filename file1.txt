@@ -1,2 +1,3 @@
 file1.txt has been created
 2nd line has been added
+3rd changes added in git-hub manually
